@@ -1,1 +1,1 @@
-# PredictFoodRatingsUsingML
+# Predict Food Ratings Using ML
